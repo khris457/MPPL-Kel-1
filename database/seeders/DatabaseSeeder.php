@@ -8,6 +8,7 @@ use App\Models\Post;
 use App\Models\User;
 use App\Models\Form;
 // Sorry guys cuma ngetes
+// Hehe
 class DatabaseSeeder extends Seeder
 {
     /**
