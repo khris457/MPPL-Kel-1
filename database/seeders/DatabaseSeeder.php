@@ -7,7 +7,7 @@ use Illuminate\Database\Seeder;
 use App\Models\Post;
 use App\Models\User;
 use App\Models\Form;
-
+// Sorry guys cuma ngetes
 class DatabaseSeeder extends Seeder
 {
     /**
