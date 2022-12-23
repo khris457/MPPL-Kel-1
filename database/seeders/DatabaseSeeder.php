@@ -9,6 +9,7 @@ use App\Models\User;
 use App\Models\Form;
 // Sorry guys cuma ngetes
 // Hehe
+// lagi 
 class DatabaseSeeder extends Seeder
 {
     /**
